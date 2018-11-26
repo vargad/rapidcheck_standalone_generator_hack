@@ -1,0 +1,3 @@
+[submodule "x_rapidcheck"]
+	path = x_rapidcheck
+	url = https://github.com/emil-e/rapidcheck
